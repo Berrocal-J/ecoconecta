@@ -1,0 +1,7 @@
+# Pega esto en tu .env (reemplaza lo que dice <...>)
+USE_EXTERNAL_SERVICES=true
+WHATSAPP_API_VERSION=v23.0
+WHATSAPP_WEBHOOK_VERIFY_TOKEN=dw_t9PxYU5QJ8lNYJMqN48sWPeT0SXBv
+WHATSAPP_PHONE_NUMBER_ID=<Phone number ID de API Setup>
+WHATSAPP_ACCESS_TOKEN=<token de API Setup>
+WHATSAPP_APP_SECRET=<App Secret de Configuración > Básica>
